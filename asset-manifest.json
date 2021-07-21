@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/basket2/static/css/main.ca471fd6.chunk.css",
+    "main.js": "/basket2/static/js/main.b4e2c9c9.chunk.js",
+    "main.js.map": "/basket2/static/js/main.b4e2c9c9.chunk.js.map",
+    "runtime-main.js": "/basket2/static/js/runtime-main.7d465ea9.js",
+    "runtime-main.js.map": "/basket2/static/js/runtime-main.7d465ea9.js.map",
+    "static/js/2.9b664031.chunk.js": "/basket2/static/js/2.9b664031.chunk.js",
+    "static/js/2.9b664031.chunk.js.map": "/basket2/static/js/2.9b664031.chunk.js.map",
+    "static/js/3.ca5de80c.chunk.js": "/basket2/static/js/3.ca5de80c.chunk.js",
+    "static/js/3.ca5de80c.chunk.js.map": "/basket2/static/js/3.ca5de80c.chunk.js.map",
+    "index.html": "/basket2/index.html",
+    "static/css/main.ca471fd6.chunk.css.map": "/basket2/static/css/main.ca471fd6.chunk.css.map",
+    "static/js/2.9b664031.chunk.js.LICENSE.txt": "/basket2/static/js/2.9b664031.chunk.js.LICENSE.txt",
+    "static/media/karasy.6b308087.jpg": "/basket2/static/media/karasy.6b308087.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d465ea9.js",
+    "static/js/2.9b664031.chunk.js",
+    "static/css/main.ca471fd6.chunk.css",
+    "static/js/main.b4e2c9c9.chunk.js"
+  ]
+}
